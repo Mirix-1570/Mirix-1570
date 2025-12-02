@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Back-End**
 
-- 👨‍💻 All of my projects are available at [https://www.paypal.me/MarielMendezCruz](https://www.paypal.me/MarielMendezCruz)
-
 - 💬 Ask me about **Css**
 
 - 📫 How to reach me **miricruz1570@gmail.com**
